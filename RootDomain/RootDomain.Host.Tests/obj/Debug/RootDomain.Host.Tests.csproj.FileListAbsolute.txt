@@ -52,7 +52,6 @@ C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Deb
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\Microsoft.IdentityModel.Protocol.Extensions.dll
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\IdentityModel.dll
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\RootDomain.Host.pdb
-C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\RootDomain.Host.dll.config
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\Microsoft.Owin.xml
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\System.Web.Http.xml
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\LightInject.pdb
@@ -67,7 +66,6 @@ C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Deb
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\IdentityModel.Owin.ClaimsTransformation.xml
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\IdentityServer3.AccessTokenValidation.pdb
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\IdentityServer3.AccessTokenValidation.xml
-C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\IdentityServer3.AccessTokenValidation.dll.config
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\System.Net.Http.Formatting.xml
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\Microsoft.Data.OData.xml
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\System.Spatial.xml

@@ -1,9 +1,5 @@
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.HubDb\bin\Debug\RootDomain.HubDb.dacpac
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.HubDb\bin\Debug\RootDomain.HubDb.dll
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.HubDb\bin\Debug\RootDomain.HubDb.pdb
-C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.HubDb\obj\Debug\Model.xml
-C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.HubDb\obj\Debug\refactor.xml
-C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.HubDb\obj\Debug\postdeploy.sql
-C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.HubDb\obj\Debug\predeploy.sql
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.HubDb\obj\Debug\RootDomain.HubDb.dll
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.HubDb\obj\Debug\RootDomain.HubDb.pdb

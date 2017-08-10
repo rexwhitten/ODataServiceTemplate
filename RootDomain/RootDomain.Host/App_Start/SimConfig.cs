@@ -20,12 +20,7 @@ namespace RootDomain.Host.App_Start
     {
         internal static void Config(IAppBuilder app, HttpConfiguration config)
         {
-            //config.SuppressDefaultHostAuthentication();
-            //config.Filters.Add(new HostAuthenticationFilter(DefaultAuthenticationTypes.ExternalBearer));
-
             var issuer = "https://devapi.sompo-us.com/SimIdentity/core";
-            //var clientId = "Javascript";
-            //var clientSecret = TextEncodings.Base64Url.Decode("SmF2YXNjcmlwdDppZHNydjN0ZXN0");
 
             app.UseClaimsTransformation(incoming =>
             {

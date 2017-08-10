@@ -62,10 +62,8 @@ C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\System.We
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\System.Web.Http.Owin.dll
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\System.Web.Http.WebHost.dll
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\RootDomain.Data.pdb
-C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\RootDomain.Data.dll.config
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\RootDomain.Interfaces.pdb
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\RootDomain.Services.pdb
-C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\RootDomain.Services.dll.config
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\EntityFramework.xml
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\EntityFramework.SqlServer.xml
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\IdentityModel.pdb
@@ -73,12 +71,10 @@ C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\IdentityM
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\IdentityModel.Owin.ClaimsTransformation.xml
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\IdentityServer3.AccessTokenValidation.pdb
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\IdentityServer3.AccessTokenValidation.xml
-C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\IdentityServer3.AccessTokenValidation.dll.config
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\LightInject.pdb
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\LightInject.xml
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\LightInject.WebApi.pdb
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\LightInject.WebApi.xml
-C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\LightInject.WebApi.dll.config
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\Microsoft.AspNet.Identity.Core.xml
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\Microsoft.AspNet.Identity.Owin.xml
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml

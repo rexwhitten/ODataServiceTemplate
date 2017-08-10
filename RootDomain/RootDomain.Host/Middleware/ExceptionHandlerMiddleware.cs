@@ -33,20 +33,11 @@ namespace RootDomain.Host.Middleware
             }
             catch (Exception ex)
             {
-                try
-                {
+                var owinContext = new OwinContext(environment);
 
-                    var owinContext = new OwinContext(environment);
-
-                    // Log Adapter
-                    HandleException(ex, owinContext);
-                    return;
-                }
-                catch (Exception)
-                {
-                    // If there's a Exception while logging the error , re-throw the original exception.
-                }
-                throw;
+                // Log Adapter
+                HandleException(ex, owinContext);
+                return;
             }
         }
 
