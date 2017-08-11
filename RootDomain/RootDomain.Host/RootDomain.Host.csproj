@@ -193,6 +193,10 @@
       <Project>{b54fafb5-d3d5-49dd-a638-71e0b2134248}</Project>
       <Name>RootDomain.Data</Name>
     </ProjectReference>
+    <ProjectReference Include="..\RootDomain.Infrastructure\RootDomain.Infrastructure.csproj">
+      <Project>{07f7276d-92cd-42cb-9e13-3b454257a776}</Project>
+      <Name>RootDomain.Infrastructure</Name>
+    </ProjectReference>
     <ProjectReference Include="..\RootDomain.Interfaces\RootDomain.Interfaces.csproj">
       <Project>{46e33cc3-0cfc-42e6-80a4-a6633993523d}</Project>
       <Name>RootDomain.Interfaces</Name>
@@ -205,6 +209,15 @@
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Dev|AnyCPU'">
+    <OutputPath>bin\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Qa|AnyCPU'">
+    <OutputPath>bin\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Production|AnyCPU'">
+    <OutputPath>bin\</OutputPath>
   </PropertyGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />

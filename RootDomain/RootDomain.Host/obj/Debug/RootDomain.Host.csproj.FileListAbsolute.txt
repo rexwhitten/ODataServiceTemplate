@@ -129,3 +129,5 @@ C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\zh-Hant\S
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\obj\Debug\RootDomain.Host.csprojResolveAssemblyReference.cache
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\obj\Debug\RootDomain.Host.dll
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\obj\Debug\RootDomain.Host.pdb
+C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\RootDomain.Infrastructure.dll
+C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host\bin\RootDomain.Infrastructure.pdb

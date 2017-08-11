@@ -107,3 +107,4 @@ C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Deb
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\obj\Debug\RootDomain.Host.Tests.csprojResolveAssemblyReference.cache
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\obj\Debug\RootDomain.Host.Tests.dll
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\obj\Debug\RootDomain.Host.Tests.pdb
+C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
