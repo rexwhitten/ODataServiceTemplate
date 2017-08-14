@@ -13,6 +13,8 @@ using Microsoft.AspNet.Identity;
 using IdentityServer3.AccessTokenValidation;
 using System.Security.Claims;
 using System.Threading.Tasks;
+using System.IdentityModel.Tokens;
+using System.Configuration;
 
 namespace RootDomain.Host.App_Start
 {
@@ -20,8 +22,8 @@ namespace RootDomain.Host.App_Start
     {
         internal static void Config(IAppBuilder app, HttpConfiguration config)
         {
-            var issuer = "https://devapi.sompo-us.com/SimIdentity/core";
-
+            var issuer = ConfigurationManager.AppSettings["SIM:Issuer"];
+            JwtSecurityTokenHandler.InboundClaimTypeMap.Clear();
             app.UseClaimsTransformation(incoming =>
             {
                 var appPrincipal = new ClaimsPrincipal(incoming);
@@ -30,7 +32,11 @@ namespace RootDomain.Host.App_Start
 
             app.UseIdentityServerBearerTokenAuthentication(new IdentityServerBearerTokenAuthenticationOptions
             {
-                Authority = issuer
+                Authority = issuer,
+                RequiredScopes = new[] { "openid", "policy_service" }, //need to rename policy_service to newly created name from SIM side
+                ValidationMode = ValidationMode.ValidationEndpoint, //ValiationMode.Local -> this will prevent it from token revocation
+                RoleClaimType = "role",
+                NameClaimType = "preferred_username"
             });
         }
     }

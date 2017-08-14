@@ -14,7 +14,10 @@ namespace RootDomain.Host
     {
         public void Configuration(IAppBuilder app)
         {
-            ServicePointManager.ServerCertificateValidationCallback += (o, c, ch, er) => true;  //Disable Invalid Certificates in Development
+            app.UseWebApi(new WebApiConfig());//added support for webapi
+
+            //ServicePointManager.ServerCertificateValidationCallback += (o, c, ch, er) => true;  //Disable Invalid Certificates in Development
+
             var config = new HttpConfiguration();
 
             LogConfig.Config(app, config);

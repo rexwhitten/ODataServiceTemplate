@@ -10,3 +10,15 @@ C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Services\bin\Debug
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Services\obj\Debug\RootDomain.Services.csprojResolveAssemblyReference.cache
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Services\obj\Debug\RootDomain.Services.dll
 C:\git\BusinessServices\ServiceTemplate\RootDomain\RootDomain.Services\obj\Debug\RootDomain.Services.pdb
+C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Services\bin\Debug\RootDomain.Services.dll.config
+C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Services\bin\Debug\RootDomain.Services.dll
+C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Services\bin\Debug\RootDomain.Services.pdb
+C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Services\bin\Debug\EntityFramework.dll
+C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Services\bin\Debug\RootDomain.Interfaces.dll
+C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Services\bin\Debug\RootDomain.Interfaces.pdb
+C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Services\bin\Debug\EntityFramework.xml
+C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Services\obj\Debug\RootDomain.Services.csprojResolveAssemblyReference.cache
+C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Services\obj\Debug\RootDomain.Services.dll
+C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Services\obj\Debug\RootDomain.Services.pdb
