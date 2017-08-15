@@ -2,8 +2,10 @@
 using LightInject;
 using RootDomain.Host.App_Start;
 using RootDomain.Host.Middleware;
+using RootDomain.Infrastructure.Middleware.Handlers;
 using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Reflection;
 using System.Web.Http;
@@ -32,6 +34,13 @@ namespace RootDomain.Host
 
             //Register the formatter
             config.Formatters.JsonFormatter.SupportedMediaTypes.Add(new System.Net.Http.Headers.MediaTypeHeaderValue("multipart/form-data"));
+
+            //configure to use logging message handler only when it is explicitly set based on circumstances.
+            if (Convert.ToBoolean(ConfigurationManager.AppSettings["service:UseLogManager"]))
+            {
+                //log HttpRequest and HttpResponse using Messagehandlers.
+                config.MessageHandlers.Add(new AppLogHandler(ConfigurationManager.AppSettings["service:name"]));
+            }
 
             config.MapHttpAttributeRoutes();
             config.Routes.MapHttpRoute(

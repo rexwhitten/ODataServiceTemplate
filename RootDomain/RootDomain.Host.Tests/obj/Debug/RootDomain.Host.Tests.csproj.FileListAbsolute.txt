@@ -149,6 +149,7 @@ C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\Elmah.Contrib.WebApi.dll
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\LightInject.WebApi.dll
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\RootDomain.Infrastructure.dll
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\System.Web.Http.Owin.dll
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\Newtonsoft.Json.dll
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\Microsoft.Owin.Cors.dll
@@ -165,6 +166,7 @@ C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\Microsoft.Owin.Security.Jwt.dll
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\Microsoft.IdentityModel.Protocol.Extensions.dll
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\IdentityModel.dll
+C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\EntityFramework.dll
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\System.Web.Cors.dll
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\RootDomain.Host.pdb
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\RootDomain.Host.dll.config
@@ -181,6 +183,8 @@ C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\LightInject.WebApi.xml
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\LightInject.WebApi.dll.config
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\RootDomain.Infrastructure.pdb
+C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\RootDomain.Infrastructure.dll.config
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\System.Web.Http.Owin.xml
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\Newtonsoft.Json.xml
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\Microsoft.Owin.Cors.xml
@@ -200,6 +204,7 @@ C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\Microsoft.IdentityModel.Protocol.Extensions.pdb
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\Microsoft.IdentityModel.Protocol.Extensions.xml
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\IdentityModel.pdb
+C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\EntityFramework.xml
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\de\Microsoft.OData.Edm.resources.dll
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\es\Microsoft.OData.Edm.resources.dll
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Host.Tests\bin\Debug\fr\Microsoft.OData.Edm.resources.dll

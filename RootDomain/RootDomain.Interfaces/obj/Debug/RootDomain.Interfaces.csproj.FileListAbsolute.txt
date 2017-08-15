@@ -27,6 +27,5 @@ C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Inter
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Interfaces\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Interfaces\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Interfaces\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
-C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Interfaces\obj\Debug\RootDomain.Interfaces.csprojResolveAssemblyReference.cache
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Interfaces\obj\Debug\RootDomain.Interfaces.dll
 C:\Projects\SompoIT\ScaffoldTemplate\ServiceTemplate\RootDomain\RootDomain.Interfaces\obj\Debug\RootDomain.Interfaces.pdb
