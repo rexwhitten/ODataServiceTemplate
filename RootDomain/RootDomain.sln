@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.16
+VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Db", "Db", "{D83840D5-83A9-49A3-8966-CD146DD9A4D7}"
 EndProject
@@ -30,6 +30,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RootDomain.Client", "RootDomain.Client\RootDomain.Client.csproj", "{2C6C4692-74B0-490A-9203-38386EC0D1D2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{F1E6648A-8976-4256-8C63-03BC34D24545}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Help", "Help", "{AB7DF570-EA82-4C11-B3F2-A82724ECB2C6}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\..\Users\kbhupathi\Desktop\ReadMe.docx = ..\..\..\..\..\..\Users\kbhupathi\Desktop\ReadMe.docx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
