@@ -52,21 +52,30 @@ namespace RootDomain.Infrastructure.Middleware.Handlers
                         apiLogEntry.ResponseContentType = response.Content.Headers.ContentType.MediaType;
                         apiLogEntry.ResponseContentBody = response.Content.ReadAsStringAsync().Result;
                         apiLogEntry.ResponseHeaders = SerializeHeaders(response.Content.Headers);
+                    }
 
-                        // TODO: Save the request log entry into database
-                        using (AppMessageLogService logger = new AppMessageLogService())
+                    // TODO: Save the request log entry into database
+                    using (AppMessageLogService logger = new AppMessageLogService())
+                    {
+                        try
                         {
-                            try
+                            if (!String.IsNullOrWhiteSpace(apiLogEntry.User))
                             {
-                                if (!String.IsNullOrWhiteSpace(apiLogEntry.User))
+                                logger.LogData(apiLogEntry);
+                            }
+                            else if (apiLogEntry.ResponseStatusCode == 401)
+                            {
+                                //User is unauthorized hence use the machine name as user to log this particular case..
+                                if (String.IsNullOrWhiteSpace(apiLogEntry.User))
                                 {
+                                    apiLogEntry.User = apiLogEntry.Machine;
                                     logger.LogData(apiLogEntry);
                                 }
                             }
-                            catch (Exception ex)
-                            {
-                                string msg = ex.Message;
-                            }
+                        }
+                        catch (Exception ex)
+                        {
+                            string msg = ex.Message;
                         }
                     }
 
