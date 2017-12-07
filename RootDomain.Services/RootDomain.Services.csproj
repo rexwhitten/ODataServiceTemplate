@@ -73,6 +73,7 @@
     <Folder Include="Events\" />
     <Folder Include="Filters\" />
     <Folder Include="Permissions\" />
+    <Folder Include="Repositories\" />
     <Folder Include="Subscribers\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

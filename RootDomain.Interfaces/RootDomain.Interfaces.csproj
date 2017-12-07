@@ -59,6 +59,8 @@
     <Compile Include="IViewService.cs" />
     <Compile Include="Permissions\IPermissions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\IChangeSet.cs" />
+    <Compile Include="Repositories\IRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
